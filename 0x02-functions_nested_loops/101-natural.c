@@ -4,7 +4,7 @@
  * main - computes and prints sum of all multiples
  * of given numbers within a certain range
  *
- * Return : value 0
+ * Return: value 0
  */
 
 int main(void)
