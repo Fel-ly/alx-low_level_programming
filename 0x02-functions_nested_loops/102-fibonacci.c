@@ -15,7 +15,7 @@ int main(void)
 
 	for (i = 3; i <= n; i++)
 	{
-		next + fib1 + fib2;
+		next = fib1 + fib2;
 
 		if (i != 50)
 		{
