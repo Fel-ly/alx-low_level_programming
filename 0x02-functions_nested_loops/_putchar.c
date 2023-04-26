@@ -1,10 +1,10 @@
 #include <unistd.h>
 
 /**
-* _putchar - writes c to standard output
-*
-*Return: value 0
-*/
+ * _putchar - prints _putchar
+ *
+ * Return: value 0
+ */
 
 int _putchar(char c)
 {
