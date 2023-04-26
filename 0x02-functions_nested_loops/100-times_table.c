@@ -3,6 +3,8 @@
 /**
  * print_times_table - Prints n times table, starting with 0
  *
+ * @n: integer from which times table is being created
+ *
  * Return: value 0
  */
 
