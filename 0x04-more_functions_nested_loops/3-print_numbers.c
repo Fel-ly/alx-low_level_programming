@@ -3,7 +3,7 @@
 /**
  * print_numbers - prints numbers from 0 to 9
  *
- * Return: val 0
+ * Return: value 0
  */
 
 void print_numbers(void)
