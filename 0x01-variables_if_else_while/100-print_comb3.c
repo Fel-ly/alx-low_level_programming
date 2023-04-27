@@ -9,7 +9,7 @@
 int main(void)
 {
 	int i;
-	
+
 	for (i = 0; i < 90; i++)
 	{
 		if (i / 10 < i % 10)
