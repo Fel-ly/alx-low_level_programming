@@ -25,7 +25,7 @@ int main(void)
 					if (a == '7' && b == '8')
 						continue;
 					putchar(',');
-					putchar(',');
+					putchar(' ');
 				}
 			}
 		}
