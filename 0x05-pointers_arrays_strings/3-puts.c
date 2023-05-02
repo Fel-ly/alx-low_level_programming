@@ -13,11 +13,10 @@ void _puts(char *str)
 	int len = 0;
 	char c;
 
-	while (*str++)
+	while (*str != '\0')
 	{
-		c = str[len];
-		_putchar(c);
-		len++;
+
+		_putchar(*str++);
 	}
 
 	_putchar('\n');
