@@ -1,5 +1,6 @@
 #include "main.h"
 #include <unistd.h>
+#include <stdio.h>
 
 /**
  * _putchar - writes character c to standard output
@@ -9,7 +10,7 @@
  * is returned and errno is appropriately set
  */
 
-int putchar(char c)
+int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
