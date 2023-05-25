@@ -3,8 +3,8 @@
 /**
  * set_string - sets value of a pointer to a char
  *
- * @s: input
- * @to: input
+ * @s: pointer to pointer
+ * @to: pointer
  *
  * Return: value 0
  */
