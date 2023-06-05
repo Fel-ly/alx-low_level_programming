@@ -3,7 +3,7 @@
 /**
  * listint_len - returns the number of elements in a linked list
  *
- * @h: linked list to print
+ * @h: linked list to be printed
  *
  * Return: number of nodes
  */
